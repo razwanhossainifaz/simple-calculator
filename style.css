@@ -27,7 +27,7 @@ body{
 }
 .calculator span{
     display: grid;
-    width: 60px;
+    width: 80px;
     height: 60px;
     color: #ffffff;
     background-color: #0c2835;
@@ -40,7 +40,7 @@ body{
 }
 .calculator span.clear{
     grid-column: span 2;
-    width: 120px;
+    width: 160px;
     background: #ff3077;
 }
 .calculator span.plus{
